@@ -21,6 +21,7 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 * CSS
 * JavaScript
 * Express
+* Nodemon
 * Nunjucks
 * SQLite
 
