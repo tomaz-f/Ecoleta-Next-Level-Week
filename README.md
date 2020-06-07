@@ -1,4 +1,4 @@
-# ![](/public/assets/logo.svg)
+# ![ecoleta logo](/public/assets/logo.svg)
 
 ## Sobre
 O ecoleta é um sistema desenvolvido para a **Next Level Week** da Rocketseat.
@@ -13,4 +13,16 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 * Utilize o comando ```npm start``` e o express irá rodar um servidor local.
 * Agora basta digitar no navegador o endereço ```localhost:3000```.
 
-# ![](/public/assets/homepage.png)
+![homepage](/public/assets/homepage.png)
+
+## Tecnologias utilizadas
+
+* HTML
+* CSS
+* JavaScript
+* Express
+* Nunjucks
+* SQLite
+
+
+
