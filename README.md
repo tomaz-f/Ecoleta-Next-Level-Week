@@ -12,3 +12,5 @@ Essas instruções fornecerão uma cópia do projeto em execução na sua máqui
 * Clone esse repositório e instale as dependencias do projeto com o comando ```npm install```
 * Utilize o comando ```npm start``` e o express irá rodar um servidor local.
 * Agora basta digitar no navegador o endereço ```localhost:3000```.
+
+# ![](/public/assets/homepage.png)
