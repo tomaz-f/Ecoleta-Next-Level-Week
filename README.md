@@ -1,2 +1,1 @@
-# Ecoleta-NLW
- Um marketplace de coleta de resíduos.
+![](/public/assets/logo.svg)
